@@ -1,0 +1,12 @@
+# Global
+web/vendor
+web/composer.lock
+
+# Application
+data/
+
+# PHPStorm
+.idea
+
+# SSL Certs
+etc/ssl/
